@@ -1,0 +1,108 @@
+.b{
+    width: 100%;
+    font-family: sans-serif;
+    
+}
+
+.signupbox{
+    width: 600px;
+    height: 810px;
+    color: #000000;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-left: 320px;
+    align-content: center;
+    box-sizing: border-box;
+    padding: 70px 30px;
+    border-radius: 20px;
+    border: #ff72db;
+    border-style: solid;
+    border-bottom-width: 3px;
+    border-top-width: 3px;
+    border-left-width: 3px;
+    border-right-width: 3px;
+}
+.hs{
+    margin-top: -50px;
+    padding: 0;
+    text-align: center;
+    font-size: 50px;
+    color: #ff72db;
+    font-weight: bold;
+    font-family: sans-serif;
+}
+
+hr{
+    border: 1px solid #ff72db;
+}
+
+.form{
+    height: 400px;
+    width: 550px;
+}
+
+.signupbox p{
+    margin: o;
+    padding: 0;
+    font-weight: bold;
+    color: #ff72db;
+    font-size: 20px;
+
+}
+
+.signupbox input{
+    width: 100%;
+    height: 100%;
+    margin-bottom: 18px;
+    font-size: 15px;
+
+}
+
+
+.signupbox input[type="text"]{
+    border: none;
+    margin: 0;
+    border-bottom: 1px solid #ff72db;
+    background: transparent;
+    outline: none;
+    height: 20px;
+    color: #000000;
+    font-size: 15px;
+}
+
+.signupbox input[type="submit"]{
+    margin: 0;
+    padding: 0;
+    border: none;
+    border-radius: 20px;
+    background: #ff72db;
+    outline: none;
+    height: 50px;
+    color: #000000;
+    font-size: 25px;
+}
+
+.signupbox input[type= "submit"]:hover{
+    corsor: pointer;
+    background: #d25eb5;
+    color: #ffffff; 
+}
+
+.cancel {
+    font-size: 20px;
+    float: right;
+    width: 300px;
+    height: 50px;
+    padding: 0;
+    border-radius: 20px;
+    background-color: #d25eb5;
+    border-style: solid;
+    color: #ff99ff;
+}
+
+.cancel:hover {
+    cursor: pointer;
+    color: #ff99ff;
+    background-color: #ff72db;
+   
+}

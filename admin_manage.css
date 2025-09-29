@@ -1,0 +1,84 @@
+.b2{
+    width: 1300px;
+}
+
+.d4{
+    width: 100%;
+    
+
+}
+
+.t5{
+    width: 1000px;
+    margin-bottom: 100px;
+
+
+}
+.th{
+    font-size: 20px;
+    color: #ff6666;
+    font-family: monospace;
+    width: 130px;
+    border: #cc0000;
+    border-style: solid;
+    border-left: none;
+    border-right: none;
+}
+
+.td3{
+    margin: 0px;
+    padding: 0px;
+    width: 130px;
+    font-size: 15px;
+    font-family: sans-serif;
+    color: #666666;
+    border: none;
+
+}
+
+.td4{
+    border: #ff3333; 
+    border-style: solid; 
+    border-left: none; 
+    border-right: none;
+}
+
+.d4 input[type="submit"]{
+
+    font-size: 20px;
+    width: 120px;
+    height: 30px;
+    padding: 0;
+    border-radius: 20px;
+    border: none;
+    background-color: #ff6666;
+    color: #000000;
+
+}
+
+.d4 input[type= "submit"]:hover{
+    corsor: pointer;
+    background: #ff3300;
+    color: #ffffff; 
+}
+
+
+.d4 a {
+    padding-top: 10px;
+    font-size: 20px;
+    width: 100px;
+    height: 30px;
+    padding: 0;
+    border-radius: 20px;
+    border: #ff3300;
+    background-color: #ffffff;
+    border-style: solid;
+    color: #cc0000;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.d4 a:hover {
+    cursor: pointer;
+    color: #ff3300;
+}

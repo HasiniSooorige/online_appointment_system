@@ -1,0 +1,43 @@
+.b2{
+    width: 1300px;
+}
+.d4{
+    width: 100%;
+}
+
+.t5{
+    width: 400px;
+    border: #cccc00;
+    border-style: solid;
+}
+.th{
+    font-size: 20px;
+    color: #cccc00;
+    font-family: monospace;
+    width: 400px;
+    border: #cccc00;
+    border-style: solid;
+    border-left: none;
+    border-right: none;
+}
+
+.td3{
+
+    width: 200px;
+    font-size: 15px;
+    font-family: sans-serif;
+    color: #666666;
+    border: none;
+    align-content: center;
+    
+
+}
+
+.td4{
+    width: 200px;
+    border: #cccc00; 
+    border-style: solid; 
+    border-left: none; 
+    border-right: none;
+    border-top: none;
+}

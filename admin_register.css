@@ -1,0 +1,134 @@
+.b{
+    width: 100%;
+    font-family: sans-serif;
+    
+}
+
+.signupbox{
+    width: 600px;
+    height: 1250px;
+    color: #000000;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-left: 320px;
+    align-content: center;
+    box-sizing: border-box;
+    padding: 70px 30px;
+    border-radius: 20px;
+    border: #ff6666;
+    border-style: solid;
+    border-bottom-width: 3px;
+    border-top-width: 3px;
+    border-left-width: 3px;
+    border-right-width: 3px;
+}
+.hs{
+    margin-top: -50px;
+    padding: 0;
+    text-align: center;
+    font-size: 50px;
+    color: #ff6666;
+    font-weight: bold;
+    font-family: sans-serif;
+}
+
+.hc{
+    padding: 0;
+    margin: 0;
+    text-align: left;
+    font-size: 30px;
+    color: #ff9999;
+    font-weight: bold;
+}
+
+.he{
+    padding: 0;
+    margin: 0;
+    text-align: left;
+    font-size: 15px;
+    color: #666666;
+    font-family: initial;
+
+}
+
+hr{
+    border: 1px solid #ff3333;
+}
+
+.form{
+    height: 400px;
+    width: 550px;
+}
+
+.signupbox p{
+    margin: o;
+    padding: 0;
+    font-weight: bold;
+    color: #ff6666;
+    font-size: 20px;
+
+}
+
+.signupbox input{
+    width: 100%;
+    height: 100%;
+    margin-bottom: 18px;
+    font-size: 15px;
+
+}
+
+
+.signupbox input[type="text"], input[type="Password"]{
+    border: none;
+    margin: 0;
+    border-bottom: 1px solid #ff3300;
+    background: transparent;
+    outline: none;
+    height: 20px;
+    color: #000000;
+    font-size: 15px;
+}
+
+.signupbox input[type="submit"]{
+    margin: 0;
+    padding: 0;
+    border: none;
+    border-radius: 20px;
+    background: #ff6666;
+    outline: none;
+    height: 50px;
+    color: #000000;
+    font-size: 25px;
+}
+
+.signupbox input[type= "submit"]:hover{
+    corsor: pointer;
+    background: #ff3333;
+    color: #ffffff; 
+}
+
+.ha{
+    
+    font-size: 20px;
+    color: #000000;
+    font-family: serif;
+}
+.cancel {
+    font-size: 20px;
+    float: right;
+    width: 300px;
+    height: 50px;
+    padding: 0;
+    border-radius: 20px;
+    border: #cc0000;
+    background-color: #ff6666;
+    border-style: solid;
+    color: #cc0000;
+}
+
+.cancel:hover {
+    cursor: pointer;
+    color: #cc0000;
+    background-color: #ff9999;
+    
+}

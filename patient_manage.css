@@ -1,0 +1,84 @@
+.b2{
+    width: 1300px;
+}
+
+.d4{
+    width: 100%;
+    
+
+}
+
+.t5{
+    width: 1000px;
+    margin-bottom: 100px;
+
+
+}
+.th{
+    font-size: 20px;
+    color: #00cc99;
+    font-family: monospace;
+    width: 130px;
+    border: #009999;
+    border-style: solid;
+    border-left: none;
+    border-right: none;
+}
+
+.td3{
+    margin: 0px;
+    padding: 0px;
+    width: 50px;
+    font-size: 15px;
+    font-family: sans-serif;
+    color: #666666;
+    border: none;
+
+}
+
+.td4{
+    border: #00cccc; 
+    border-style: solid; 
+    border-left: none; 
+    border-right: none;
+}
+
+.d4 input[type="submit"]{
+
+    font-size: 20px;
+    width: 120px;
+    height: 30px;
+    padding: 0;
+    border-radius: 20px;
+    border: none;
+    background-color: #00ffcc;
+    color: #000000;
+
+}
+
+.d4 input[type= "submit"]:hover{
+    corsor: pointer;
+    background: #009999;
+    color: #ffffff; 
+}
+
+
+.d4 a {
+    padding-top: 10px;
+    font-size: 20px;
+    width: 100px;
+    height: 30px;
+    padding: 0;
+    border-radius: 20px;
+    border: #009999;
+    background-color: #ffffff;
+    border-style: solid;
+    color: #009999;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.d4 a:hover {
+    cursor: pointer;
+    color: #00ffcc;
+}

@@ -1,0 +1,106 @@
+.bb{
+
+    width: 100%;
+
+}
+.probox{
+    width: 800px;
+    height: 900px;
+    color: #000000;
+    margin-top: 200px;
+    margin-bottom: 200px;
+    margin-left: 250px;
+    align-content: center;
+    box-sizing: border-box;
+    padding: 70px 30px;
+    border-radius: 20px;
+    border: #ff6666;
+    border-style: solid;
+    border-bottom-width: 3px;
+    border-top-width: 3px;
+    border-left-width: 3px;
+    border-right-width: 3px;
+    background-color: #ffffff;
+}
+
+.hp{
+
+    font-size: 30px;
+    color: #ff6666;
+    font-weight: bold;
+    font-family: serif;
+}
+.td1{
+
+    padding: 0;
+    font-weight: bold;
+    color: #cc0000;
+    font-size: 20px;
+
+}
+
+.probox input[type="text"], input[type="Password"]{
+    padding-left: 12px;
+    padding-right: 12px;
+    background: #FFFFFF;
+    color: #000000;
+    height: 40px;
+    font-size: 20px;
+    font-family: inherit;
+    border-style: none;
+}
+
+.td2{
+    padding-left: 12px;
+    padding-right: 12px;
+    background: #FFFFFF;
+    color: #000000;
+    height: 40px;
+    font-size: 20px;
+    font-family: inherit;
+    border-style: none;
+}
+
+
+
+.probox input[type="submit"]{
+
+    font-size: 20px;
+    float: right;
+    width: 100%;
+    height: 50px;
+    padding: 0;
+    border-radius: 20px;
+    border: none;
+    background-color: #ff6666;
+
+    color: #000000;
+
+}
+
+.probox input[type= "submit"]:hover{
+    corsor: pointer;
+    background: #ff3333;
+    color: #ffffff; 
+}
+
+
+.probox a {
+    padding-top: 10px;
+    font-size: 20px;
+    float: right;
+    width: 350px;
+    height: 50px;
+    padding: 0;
+    border-radius: 20px;
+    border: #ff6666;
+    background-color: #ffffff;
+    border-style: solid;
+    color: #ff6666;
+}
+
+.probox a:hover {
+    cursor: pointer;
+    color: #ff9999;
+    border: #ff9999;
+}
